@@ -1,8 +1,8 @@
 class PortalCredits < Formula
   desc "Portal (2007) end credits, recreated in your terminal"
   homepage "https://github.com/panch076/portal-credits"
-  url "https://github.com/panch076/portal-credits/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "e77efeaa29a71ce058f2140d3d7f3509879a29a10c8f50aa424f3a0f12c29d13"
+  url "https://github.com/panch076/portal-credits/archive/refs/tags/v1.0.1.tar.gz"
+  sha256 "1573059b622daebba3f06bbb14dc0e54713996633cc06040e15f6e108d1b61fa"
   # The code is MIT. The bundled credit text and ASCII art are Valve's, and the
   # song is deliberately not included, so the package as a whole is not MIT.
   license :cannot_represent
